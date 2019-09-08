@@ -46,3 +46,24 @@ h1{
     padding:20px;
     
 }
+
+.blog-post{
+    margin:10px;
+    background-color:white;
+    border:1px solid #999999;
+    border-radius:20px;
+    padding:10px;
+
+}
+
+.clearfix{
+    float:none;
+    clear:both;
+
+}
+
+
+.blog-post-img{
+    float:left;
+    margin:20px;
+}
